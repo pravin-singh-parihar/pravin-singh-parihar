@@ -12,7 +12,9 @@
 - 🌱 I’m currently learning **Java development, Data-structure, UI/UX**
 
 - 👯 I’m looking to collaborate on **UI/UX and how to build Software from scratch**
-
+- 
+- 👨‍💻 Check out my Portfolio **
+- 
 - 💬 Ask me about **Software Developement,Spring Boot&Core,Microservices,Docker,Maven,AWS,Java and Problem Solving.**
 
 - 📫 How to reach me **pravin.singh.uit@gmail.com**
